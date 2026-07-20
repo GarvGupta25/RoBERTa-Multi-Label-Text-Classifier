@@ -4,6 +4,8 @@ Fine-tuned RoBERTa-base for multi-label toxic comment classification on the Jigs
 
 **Final Macro F1: 0.6804 across 6 toxicity labels**
 
+huggingface model deployed live - https://huggingface.co/spaces/hf-garv/roberta_multilabel_text_classifier
+
 ---
 
 ## Table of Contents
